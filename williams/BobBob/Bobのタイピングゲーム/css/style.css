@@ -1,0 +1,28 @@
+body {
+    background-color: #fff;
+    padding-top: 40px;
+    text-align:center;
+    font-family: 'Balsamiq Sans', cursive;
+    background-image: url(/Users/stapro/Desktop/BobBob/Bobのタイピングゲーム/haha.gif);
+    background-repeat: no-repeat;
+    background-position: center 5px;
+    background-size: 110%;
+}
+#target {
+    font-size: 48px;
+    letter-spacing: .1em;
+    color: rgb(100, 100, 100);
+}
+
+#result {
+    font-size: 30px;
+    color: rgb(100, 100, 100);
+    font-weight: bold;
+}
+
+.back {
+    width: 660px;
+    height: 50px;
+    background-color: rgb(154, 177, 181);
+    margin: auto;
+}

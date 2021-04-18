@@ -1,0 +1,15 @@
+body {
+    font-size: 100px;
+    padding-top: 80px;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    background-image: url(img/evM.jpg);
+    background-size: cover;
+}
+
+#target {
+    font-size: 96px;
+    letter-spacing: 0.5em;
+    height: 100%;
+    background: rgba(255,255,255,0.5);
+}
